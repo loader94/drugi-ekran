@@ -1,0 +1,10 @@
+c:\users\paweu\documents\visual studio 2015\Projects\Nowe Odbieranie\Nowe Odbieranie\bin\Debug\Nowe Odbieranie.exe.config
+c:\users\paweu\documents\visual studio 2015\Projects\Nowe Odbieranie\Nowe Odbieranie\bin\Debug\Nowe Odbieranie.exe
+c:\users\paweu\documents\visual studio 2015\Projects\Nowe Odbieranie\Nowe Odbieranie\bin\Debug\Nowe Odbieranie.pdb
+c:\users\paweu\documents\visual studio 2015\Projects\Nowe Odbieranie\Nowe Odbieranie\obj\Debug\Nowe_Odbieranie.Form1.resources
+c:\users\paweu\documents\visual studio 2015\Projects\Nowe Odbieranie\Nowe Odbieranie\obj\Debug\Nowe_Odbieranie.Form2.resources
+c:\users\paweu\documents\visual studio 2015\Projects\Nowe Odbieranie\Nowe Odbieranie\obj\Debug\Nowe_Odbieranie.Properties.Resources.resources
+c:\users\paweu\documents\visual studio 2015\Projects\Nowe Odbieranie\Nowe Odbieranie\obj\Debug\Nowe Odbieranie.csproj.GenerateResource.Cache
+c:\users\paweu\documents\visual studio 2015\Projects\Nowe Odbieranie\Nowe Odbieranie\obj\Debug\Nowe Odbieranie.exe
+c:\users\paweu\documents\visual studio 2015\Projects\Nowe Odbieranie\Nowe Odbieranie\obj\Debug\Nowe Odbieranie.pdb
+c:\users\paweu\documents\visual studio 2015\Projects\Nowe Odbieranie\Nowe Odbieranie\obj\Debug\Nowe Odbieranie.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+c:\users\paweu\documents\visual studio 2015\Projects\Nowe Wysylanie\Nowe Wysylanie\bin\Debug\Nowe Wysylanie.exe.config
+c:\users\paweu\documents\visual studio 2015\Projects\Nowe Wysylanie\Nowe Wysylanie\obj\Debug\Nowe Wysylanie.csprojResolveAssemblyReference.cache
+c:\users\paweu\documents\visual studio 2015\Projects\Nowe Wysylanie\Nowe Wysylanie\obj\Debug\Nowe_Wysylanie.Form1.resources
+c:\users\paweu\documents\visual studio 2015\Projects\Nowe Wysylanie\Nowe Wysylanie\obj\Debug\Nowe_Wysylanie.Properties.Resources.resources
+c:\users\paweu\documents\visual studio 2015\Projects\Nowe Wysylanie\Nowe Wysylanie\obj\Debug\Nowe Wysylanie.csproj.GenerateResource.Cache
+c:\users\paweu\documents\visual studio 2015\Projects\Nowe Wysylanie\Nowe Wysylanie\bin\Debug\Nowe Wysylanie.exe
+c:\users\paweu\documents\visual studio 2015\Projects\Nowe Wysylanie\Nowe Wysylanie\bin\Debug\Nowe Wysylanie.pdb
+c:\users\paweu\documents\visual studio 2015\Projects\Nowe Wysylanie\Nowe Wysylanie\obj\Debug\Nowe Wysylanie.exe
+c:\users\paweu\documents\visual studio 2015\Projects\Nowe Wysylanie\Nowe Wysylanie\obj\Debug\Nowe Wysylanie.pdb
